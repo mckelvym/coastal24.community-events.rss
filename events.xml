@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<rss version="2.0">
+<rss xmlns:ev="http://purl.org/rss/1.0/modules/event/" version="2.0">
   <channel>
     <title>Coastal Credit Union Community Events</title>
     <link>https://www.coastal24.com/about/community-engagement/coastal-in-the-community</link>
     <description>Community events sponsored by Coastal Credit Union</description>
-    <lastBuildDate>Sun, 4 Oct 2026 23:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 5 Oct 2026 10:15:18 GMT</lastBuildDate>
     <item>
-      <title>Sip, Savor, and Celebrate at Rocky Mount Branch (Oct 29, 2026 | 5:30 pm — 7:00 pm)</title>
+      <title>Sip, Savor, and Celebrate at Rocky Mount Branch (Oct 29, 2026)</title>
       <link>https://www.coastal24.com/about/community-engagement/coastal-in-the-community/2026/october/sip-savor-and-celebrate-at-rocky-mount-branch</link>
-      <guid>https://www.coastal24.com/about/community-engagement/coastal-in-the-community/2026/october/sip-savor-and-celebrate-at-rocky-mount-branch</guid>
-      <pubDate>Fri, 10 Apr 2026 18:15:19 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.coastal24.com/getContentAsset/4f20fa5e-2263-49b2-aff2-932867dc4a65/bd9e9f4d-9bd3-4fd9-b768-227495ff59c1/rocky-mount.png?language=en" alt="Sip, Savor, and Celebrate at Rocky Mount Branch" /><br/><strong>Date:</strong> Oct 29, 2026 | 5:30 pm — 7:00 pm<br/><strong>Location:</strong> Rocky Mount Branch<br/><br/><p>Join us as we celebrate a significant milestone: <strong>10 Years of our Rocky Mount</strong> branch serving our community.&nbsp;</p>]]></description>
+      <guid isPermaLink="true">https://www.coastal24.com/about/community-engagement/coastal-in-the-community/2026/october/sip-savor-and-celebrate-at-rocky-mount-branch</guid>
+      <ev:startdate>2026-10-29</ev:startdate>
+      <pubDate>Mon, 5 Oct 2026 10:15:18 GMT</pubDate>
+      <description><![CDATA[<strong>Date:</strong> Oct 29, 2026<br/><strong>Location:</strong> Rocky Mount Branch<br/><br/><p>Join us as we celebrate a significant milestone: <strong>10 Years of our Rocky Mount</strong> branch serving our community.&nbsp;</p>]]></description>
+      <enclosure type="image/jpeg" url="https://www.coastal24.com/getContentAsset/4f20fa5e-2263-49b2-aff2-932867dc4a65/bd9e9f4d-9bd3-4fd9-b768-227495ff59c1/rocky-mount.png?language=en"/>
     </item>
   </channel>
 </rss>
